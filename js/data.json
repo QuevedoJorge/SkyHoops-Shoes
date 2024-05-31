@@ -1,0 +1,279 @@
+{
+  "zapatillas": [
+    {
+      "id": 1,
+      "nombre": "DAME 8 EXTPLY",
+      "precio": 130,
+      "stock": 100,
+      "categoria": "Outdoors",
+      "descripcion": "Zapatilla cómoda de caña baja con alta durabilidad y comodidad",
+      "marca": "Adidas",
+      "disponibilidad": true,
+      "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/1d4abf2af6454cd686e025568e661b31_9366/Dame_8_EXTPLY_Shoes_Purple_IF1512_01_standard.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Harden Vol. 6",
+      "precio": 150,
+      "stock": 80,
+      "categoria": "Indoors",
+      "descripcion": "Zapatilla con gran tracción y ajuste personalizado.",
+      "marca": "Adidas",
+      "disponibilidad": true,
+      "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/eb08ea429fd84f03bf58adcb010064f0_9366/Zapatillas_Harden_Vol._6_Turquesa_GV8703_01_standard.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Don Issue #3",
+      "precio": 120,
+      "stock": 0,
+      "categoria": "Indoors",
+      "descripcion": "Zapatilla diseñada para agilidad y control en el juego.",
+      "marca": "Adidas",
+      "disponibilidad": false,
+      "imagen": "https://assets.adidas.com/images/w_600,f_auto,q_auto/6fed94c7b4394731ab83acfa014622a9_9366/Zapatillas_Donovan_Mitchell_D.O.N._Issue_3_Purpura_H68046_01_standard.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Dame 7",
+      "precio": 140,
+      "stock": 90,
+      "categoria": "Outdoors",
+      "descripcion": "Zapatilla con alta durabilidad y diseño inspirado en Damian Lillard.",
+      "marca": "Adidas",
+      "disponibilidad": true,
+      "imagen": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/207791970fc3410d812bac910063af88_9366/Dame_7_GCA_Negro_FX7446_01_standard.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "D Rose 11",
+      "precio": 150,
+      "stock": 60,
+      "categoria": "Indoors",
+      "descripcion": "Zapatilla diseñada para velocidad y agilidad, inspirada en Derrick Rose.",
+      "marca": "Adidas",
+      "disponibilidad": true,
+      "imagen": "https://assets.adidas.com/images/w_600,f_auto,q_auto/6f3917d28dcc4620a026ac430137a731_9366/D_Rose_11_Shoes_Black_FY9997_01_standard.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Air Jordan 36",
+      "precio": 180,
+      "stock": 50,
+      "categoria": "Indoors",
+      "descripcion": "Zapatilla de alto rendimiento con gran amortiguación y soporte.",
+      "marca": "Nike",
+      "disponibilidad": true,
+      "imagen": "https://exclusiveshopperu.com/wp-content/uploads/Jordan-36-First-Light-1.jpg.webp"
+    },
+    {
+      "id": 7,
+      "nombre": "LeBron 19",
+      "precio": 200,
+      "stock": 30,
+      "categoria": "Indoors",
+      "descripcion": "Zapatilla de alto rendimiento diseñada para el juego de LeBron James.",
+      "marca": "Nike",
+      "disponibilidad": true,
+      "imagen": "https://static.wixstatic.com/media/2982cc_e806d380e68b4de384a4b3b557c63cd9~mv2.webp"
+    },
+    {
+      "id": 8,
+      "nombre": "KD 14",
+      "precio": 150,
+      "stock": 65,
+      "categoria": "Indoors",
+      "descripcion": "Zapatilla con gran amortiguación y soporte lateral.",
+      "marca": "Nike",
+      "disponibilidad": true,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP6QGInZU0r2lA3OJdCzOjZjc_B7Wh_E_mDEi1BAPbQg&s"
+    },
+    {
+      "id": 9,
+      "nombre": "Kyrie 7",
+      "precio": 140,
+      "stock": 80,
+      "categoria": "Indoors",
+      "descripcion": "Zapatilla con gran tracción y soporte para cambios rápidos de dirección.",
+      "marca": "Nike",
+      "disponibilidad": true,
+      "imagen": "https://i.ebayimg.com/images/g/ft8AAOSwaA1jobMZ/s-l640.png"
+    },
+    {
+      "id": 10,
+      "nombre": "Zoom Freak 3",
+      "precio": 130,
+      "stock": 70,
+      "categoria": "Indoors",
+      "descripcion": "Zapatilla ligera y ágil, ideal para jugadores rápidos como Giannis Antetokounmpo.",
+      "marca": "Nike",
+      "disponibilidad": true,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN2oI80sw1npei1mys-I1liB6BbCKN2i5NyboQUCq3ow&s"
+    },
+    {
+      "id": 11,
+      "nombre": "Nike Adapt BB 2.0",
+      "precio": 350,
+      "stock": 25,
+      "categoria": "Indoors",
+      "descripcion": "Zapatilla autoajustable con tecnología avanzada para un ajuste perfecto.",
+      "marca": "Nike",
+      "disponibilidad": true,
+      "imagen": "https://i.ebayimg.com/images/g/73sAAOSwuJtjobKg/s-l640.png"
+    },
+    {
+      "id": 12,
+      "nombre": "Kobe 6 Protro",
+      "precio": 180,
+      "stock": 30,
+      "categoria": "Indoors",
+      "descripcion": "Zapatilla clásica rediseñada con tecnología moderna para rendimiento óptimo.",
+      "marca": "Nike",
+      "disponibilidad": true,
+      "imagen": "https://exclusiveshopperu.com/wp-content/uploads/Nike-Kobe-6-Protro-Reverse-Grinch-1.jpg.webp"
+    },
+    {
+      "id": 13,
+      "nombre": "Curry Flow 9",
+      "precio": 160,
+      "stock": 75,
+      "categoria": "Indoors",
+      "descripcion": "Zapatilla ligera y ágil, ideal para jugadores rápidos.",
+      "marca": "Under Armour",
+      "disponibilidad": true,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjCwOa7BZEzWcDmqaBfxxME7VQpufthngI99tuQHCCug&s"
+    },
+    {
+      "id": 14,
+      "nombre": "Embiid One",
+      "precio": 130,
+      "stock": 55,
+      "categoria": "Indoors",
+      "descripcion": "Zapatilla robusta para jugadores de gran tamaño y fuerza.",
+      "marca": "Under Armour",
+      "disponibilidad": true,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1aB50Ic4vjYSAO4jkLUhlEHimLEXtXGycMBxLxkONwA&s"
+    },
+    {
+      "id": 15,
+      "nombre": "Under Armour Spawn 3",
+      "precio": 120,
+      "stock": 0,
+      "categoria": "Indoors",
+      "descripcion": "Zapatilla con gran soporte y tracción multidireccional.",
+      "marca": "Under Armour",
+      "disponibilidad": false,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnlPNHUUuPo6KDV_xUfvcEeWEY7178QTT2XpoH0jKT9A&s"
+    },
+    {
+      "id": 16,
+      "nombre": "Puma Clyde All-Pro",
+      "precio": 140,
+      "stock": 60,
+      "categoria": "Indoors",
+      "descripcion": "Zapatilla inspirada en el clásico estilo de Walt 'Clyde' Frazier.",
+      "marca": "Puma",
+      "disponibilidad": true,
+      "imagen": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_2000,h_2000/global/194039/02/sv01/fnd/PNA/fmt/png/Tenis-de-Basquetbol-Clyde-All-Pro"
+    },
+    {
+      "id": 17,
+      "nombre": "Puma Uproar",
+      "precio": 130,
+      "stock": 0,
+      "categoria": "Indoors",
+      "descripcion": "Zapatilla diseñada para rendimiento y estilo en la cancha.",
+      "marca": "Puma",
+      "disponibilidad": false,
+      "imagen": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_600,h_600/global/192775/01/fnd/PNA/fmt/png/Uproar-Core-Basketball-Shoes"
+    },
+    {
+      "id": 18,
+      "nombre": "Puma Legacy",
+      "precio": 130,
+      "stock": 50,
+      "categoria": "Indoors",
+      "descripcion": "Zapatilla con gran soporte y amortiguación, ideal para el juego intenso.",
+      "marca": "Puma",
+      "disponibilidad": true,
+      "imagen": "https://falabella.scene7.com/is/image/FalabellaPE/19863066_1?wid=800&hei=800&qlt=70"
+    },
+    {
+      "id": 19,
+      "nombre": "LaMelo Ball 1",
+      "precio": 125,
+      "stock": 0,
+      "categoria": "Indoors",
+      "descripcion": "Zapatilla diseñada para la joven estrella LaMelo Ball, con gran estilo y rendimiento.",
+      "marca": "Puma",
+      "disponibilidad": false,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsaPGGEMWydnQrQX9UKRTJtxg_yWOKonIJRzadn0IbQQ&s"
+    },
+    {
+      "id": 20,
+      "nombre": "New Balance OMN1S",
+      "precio": 160,
+      "stock": 45,
+      "categoria": "Indoors",
+      "descripcion": "Zapatilla de baloncesto versátil con soporte multidireccional.",
+      "marca": "New Balance",
+      "disponibilidad": true,
+      "imagen": "https://i.ebayimg.com/thumbs/images/g/m-8AAOSwvFdhs9TE/s-l1200.jpg"
+    },
+    {
+      "id": 21,
+      "nombre": "Kawhi Leonard 1",
+      "precio": 150,
+      "stock": 50,
+      "categoria": "Indoors",
+      "descripcion": "Zapatilla de alto rendimiento diseñada para el juego de Kawhi Leonard.",
+      "marca": "New Balance",
+      "disponibilidad": true,
+      "imagen": "https://nb.scene7.com/is/image/NB/bbklsto1_nb_02_i?$pdpflexf2$&wid=440&hei=440"
+    },
+    {
+      "id": 22,
+      "nombre": "Adidas T-Mac Millennium 2",
+      "precio": 140,
+      "stock": 40,
+      "categoria": "Indoors",
+      "descripcion": "Zapatilla inspirada en el estilo y el juego de Tracy McGrady.",
+      "marca": "Adidas",
+      "disponibilidad": true,
+      "imagen": "https://i.ebayimg.com/images/g/bkgAAOSw7SVjoWXg/s-l640.png"
+    },
+    {
+      "id": 23,
+      "nombre": "Nike Kyrie Low 4",
+      "precio": 110,
+      "stock": 60,
+      "categoria": "Indoors",
+      "descripcion": "Zapatilla de perfil bajo diseñada para movimientos rápidos y ágiles.",
+      "marca": "Nike",
+      "disponibilidad": true,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvQXOR9NbrOwM2zeHNWYquKbrnueJ-_EvHKOz2p10Cqw&s"
+    },
+    {
+      "id": 24,
+      "nombre": "Under Armour HOVR Havoc 3",
+      "precio": 120,
+      "stock": 0,
+      "categoria": "Indoors",
+      "descripcion": "Zapatilla con tecnología HOVR para una amortiguación reactiva.",
+      "marca": "Under Armour",
+      "disponibilidad": false,
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpeWJnfIF9xaihshfy5nsdd2Di_QGOdGdKcFrndqNjwA&s"
+    },
+    {
+      "id": 25,
+      "nombre": "Puma RS-Dreamer",
+      "precio": 125,
+      "stock": 80,
+      "categoria": "Indoors",
+      "descripcion": "Zapatilla diseñada en colaboración con J. Cole, combinando estilo y rendimiento.",
+      "marca": "Puma",
+      "disponibilidad": true,
+      "imagen": "https://hiker99.com/media/catalog/product/cache/2141b962e829377e18fed3f8b1b852da/1/9/193990-21_1_10.jpg"
+    }
+  ]
+}

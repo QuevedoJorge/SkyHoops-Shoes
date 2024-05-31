@@ -1,0 +1,30 @@
+@font-face {
+  font-family: Fuente Titulo;
+  src: url(/fonts/fuente-titulo.otf);
+}
+@font-face {
+  font-family: Fuente Cursiva;
+  src: url(/fonts/fuente-italic.otf);
+}
+body {
+  background-image: url(/images/bg.jpg);
+  background-size: 250px;
+}
+h1 {
+  font-family: Fuente Titulo;
+  text-decoration: underline;
+  text-shadow: 3px 3px orange;
+}
+h2 {
+  font-family: Fuente Cursiva;
+}
+.card:hover {
+  transition: filter, 0.5s ease;
+  filter: brightness(90%);
+  box-shadow: 4px 4px rgb(89, 89, 89);
+}
+#desc-page {
+  font-family: Fuente Cursiva;
+  text-align: justify;
+  font-size: 18px;
+}
