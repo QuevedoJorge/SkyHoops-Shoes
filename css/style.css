@@ -1,13 +1,13 @@
 @font-face {
   font-family: Fuente Titulo;
-  src: url(/fonts/fuente-titulo.otf);
+  src: url(fonts/fuente-titulo.otf);
 }
 @font-face {
   font-family: Fuente Cursiva;
-  src: url(/fonts/fuente-italic.otf);
+  src: url(fonts/fuente-italic.otf);
 }
 body {
-  background-image: url(/images/bg.jpg);
+  background-image: url(images/bg.jpg);
   background-size: 250px;
 }
 h1 {
